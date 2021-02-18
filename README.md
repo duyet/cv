@@ -1,2 +1,2 @@
 # cv
-cv.duyet.net
+[cv.duyet.net](https://cv.duyet.net)
